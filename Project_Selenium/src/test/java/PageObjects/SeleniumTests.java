@@ -1,3 +1,5 @@
+package PageObjects;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
@@ -17,7 +19,9 @@ public class SeleniumTests {
     }
 
     @Test
-    public void
+    public void opennetflixMainPage(){
+
+    }
 
 
 }
